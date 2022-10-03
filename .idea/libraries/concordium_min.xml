@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="concordium.min" type="kotlin.js">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/static/concordium.min.js" />
+      <root url="file://$PROJECT_DIR$/static/concordiumHelpers.min.js" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
