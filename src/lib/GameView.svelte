@@ -166,7 +166,7 @@
 
       <div class="flex flex-col ml-10">
         <Seat name={playerTwoPlaceHolder} joined={playerTwoJoined} isMyTurn={playerTurn === 2}></Seat>
-        <BetTable gamblers="" playerPosition="2"></BetTable>
+        <BetTable gamblers={gamblersPlayerTwo} playerPosition="2"></BetTable>
       </div>
 
     </div>
